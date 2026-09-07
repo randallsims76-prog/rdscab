@@ -66,10 +66,6 @@ http://104.255.88.155/hallmark/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us",Magnolia Network
-http://fl51.moveonjoy.com/DIY/index.m3u8
-http://fl51.moveonjoy.com/DIY/index.m3u8
-
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="" group-title="Science",OuterSphere
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
@@ -89,29 +85,6 @@ http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" group-title="Entertainment",REELZ
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 http://fl51.moveonjoy.com/REELZ/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
-
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" group-title="Movies",STARZ
-http://fl51.moveonjoy.com/STARZ/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="STARZ Comedy" group-title="Movies",STARZ Comedy
-http://fl51.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ Edge" group-title="Movies",STARZ Edge
-http://fl51.moveonjoy.com/STARZ_EDGE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="STARZ Encore" group-title="Movies",STARZ Encore
-http://fl51.moveonjoy.com/STARZ_ENCORE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ Encore Action" group-title="Movies",STARZ Encore Action
-http://fl51.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="STARZ Encore Classic" group-title="Movies",STARZ Encore Classic
-http://fl51.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ West" group-title="Movies",STARZ West
-http://fl51.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1,Travel Channel
 http://84.17.50.102/travel/index.m3u8
